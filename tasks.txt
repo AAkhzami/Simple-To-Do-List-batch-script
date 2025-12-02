@@ -1,0 +1,15 @@
+Buy groceries#Milk,bread,eggs,and fruits#1
+Study math#Review chapter 4 for the upcoming quiz#2
+Clean my room#Organize desk,bed,and wardrobe#1
+Finish programming assignment#Complete all required features#3
+Workout#45 minutes of cardio and stretching#2
+Backup files#Copy important documents to external drive#1
+Prepare presentation#Create slides for school project#2
+Wash the car#Interior cleaning + exterior wash#2
+Update my CV#Add new experience and skills#2
+Practice Batch scripting#Learn and test 2 new commands#3
+Call my uncle#Ask about his recovery and health#1
+Read a book#Read at least 20 pages from my current book#1
+Organize workspace#Clean desk and arrange cables properly#1
+Plan weekly goals#Write tasks for the next 7 days#2
+Work on portfolio#Add new project to my GitHub#3
